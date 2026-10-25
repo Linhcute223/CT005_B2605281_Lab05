@@ -3,7 +3,7 @@
 ## Thông tin sinh viên
 - **Họ tên:** Nguyễn Thị Yến Linh
 - **MSSV:** B2605281
-- **Lớp:** DI2601A1
+- **Lớp:** DI26D1A1
 
 ### Danh sách sản phẩm Lab 07:
 
